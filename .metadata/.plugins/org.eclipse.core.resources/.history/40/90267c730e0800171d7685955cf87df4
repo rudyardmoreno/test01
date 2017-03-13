@@ -1,0 +1,9 @@
+package pjavatest01;
+
+public class ctest01 {
+	public static void main (String[] args){
+		for (int i=1;i++;i<=10) {
+			System.out.println("Hello, World --> %d",i);
+		}		
+	}
+}
